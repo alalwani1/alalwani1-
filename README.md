@@ -4,7 +4,7 @@
 
 I build enterprise-scale, compliance-critical platforms and the infrastructure behind them. Currently at **Tekion Corp**, leading architecture for systems spanning 70+ entities, 2,600+ dealerships, and 240,000+ consumers.
 
-📍 Hyderabad, India · [LinkedIn](https://linkedin.com/in/amit-lalwani-245190a2) · lalwani3952@gmail.com
+📍 Bengaluru, India · [LinkedIn](https://linkedin.com/in/amit-lalwani-245190a2) · lalwani3952@gmail.com
 
 ---
 
@@ -37,11 +37,11 @@ Product-attribute standardization and data pipeline work for vendor onboarding.
 
 ## Stack
 
-**Languages/Frameworks:** Java · Spring Boot · Spring MVC · SQL
-**Architecture:** Microservices · Event-driven systems · Platform/data architecture
-**Cloud & DevOps:** AWS · Docker · Kubernetes · Jenkins · Git
-**Data:** MySQL · MongoDB · Apache Kafka
-**Testing:** JUnit5 · Mockito · TDD
+- **Languages/Frameworks:** Java · Spring Boot · Spring MVC · SQL
+- **Architecture:** Microservices · Event-driven systems · Platform/data architecture
+- **Cloud & DevOps:** AWS · Docker · Kubernetes · Jenkins · Git
+- **Data:** MySQL · MongoDB · Apache Kafka
+- **Testing:** JUnit5 · Mockito · TDD
 
 ## Currently learning
 
